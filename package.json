@@ -3,11 +3,11 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "homepage": "https://sergeycrew.github.io/Ice-Cream-Project",
+  "homepage": "https://tonichiga.github.io/Ice-Cream-Pink",
   "scripts": {
     "dev": "parcel src/*.html",
     "build": "parcel build src/*.html",
-    "predeploy": "npm run build -- --public-url=/Ice-Cream-Project/",
+    "predeploy": "npm run build -- --public-url=/Ice-Cream-Pink/",
     "deploy": "gh-pages -d dist"
   },
   "repository": {
